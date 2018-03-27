@@ -1,0 +1,2 @@
+pip install tensorflow-gpu==1.4.0
+pip install tensorflow-tensorboard==0.4.0
