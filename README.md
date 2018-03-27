@@ -6,7 +6,7 @@ Character:
 Here, we have implemented character-based-LSTM model
 It contains script file "generate_sentence.sh" which generate 10 token sentence
 
-Character:
+Token:
 
 Here, we have implemented Token-based-LSTM model
 It contains script file "generate_sentence.sh" which generate 10 token sentence
